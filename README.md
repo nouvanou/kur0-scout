@@ -5,8 +5,10 @@
 > whose every claim can be re-checked against a public source or an on-chain
 > read, in one click.
 
-**Live endpoint:** see the Agent Games submission (Wildcard track) — the same
-HTTP API documented below. **Operator:** @kur0 · **License:** MIT ·
+**Live endpoint:** https://kur0-scout.netlify.app — try
+[`/brief`](https://kur0-scout.netlify.app/brief) or
+[`/audit?contract=0xCAc2B707…&chain=56`](https://kur0-scout.netlify.app/audit?contract=0xCAc2B707cCf3309aE944a0DB036DFC75aDcC9Be7&chain=56).
+The HTTP API is documented below. **Operator:** @kur0 · **License:** MIT ·
 **Stack:** Node.js ≥ 18, zero dependencies.
 
 ---
