@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: kur0-scout
+    env: node
+    plan: free
+    buildCommand: "echo no-deps"
+    startCommand: node agent.mjs
+    envVars:
+      - key: NODE_ENV
+        value: production
