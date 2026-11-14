@@ -1,0 +1,148 @@
+{
+  "agent": "kur0-scout",
+  "version": "1.0.0",
+  "kind": "opportunity-scan-brief",
+  "generatedAt": "2026-11-14T23:34:09.503Z",
+  "summary": {
+    "sourcesOk": 7,
+    "sourcesTotal": 7,
+    "itemsSeen": 137,
+    "leadsFound": 16
+  },
+  "sourceStatus": [
+    {
+      "source": "airdrops-io",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "news:cointelegraph",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "news:cryptoslate",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "medium:airdrop",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "telegram:AirdropJacks",
+      "ok": true,
+      "items": 19
+    },
+    {
+      "source": "reddit:airdrops",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "reddit:CryptoAirdrops",
+      "ok": true,
+      "items": 25
+    }
+  ],
+  "leads": [
+    {
+      "title": "How to Claim the My Age ($AGE) Airdrop: Turn Your Old Telegram & X Accounts Into Crypto Rewards",
+      "url": "https://medium.com/@Cryptocomplexofficial/how-to-claim-the-my-age-age-airdrop-turn-your-old-telegram-x-accounts-into-crypto-rewards-cd2ef75a4fd6?source=rss------airdrop-5",
+      "source": "medium",
+      "publishedAt": "Fri, 13 Nov 2026 12:47:39 GMT"
+    },
+    {
+      "title": "New Gleam airdrop: Brainedge (LEARN)",
+      "url": "https://www.reddit.com/r/airdrops/comments/1bxf9ta/new_gleam_airdrop_brainedge_learn/",
+      "source": "reddit:r/airdrops",
+      "publishedAt": "2024-04-06T16:11:37.000Z"
+    },
+    {
+      "title": "New airdrop: Clutch AI",
+      "url": "https://www.reddit.com/r/airdrops/comments/1bxf7cq/new_airdrop_clutch_ai/",
+      "source": "reddit:r/airdrops",
+      "publishedAt": "2024-04-06T16:08:41.000Z"
+    },
+    {
+      "title": "AIRDROP $SWORD",
+      "url": "https://www.reddit.com/r/airdrops/comments/1bxew84/airdrop_sword/",
+      "source": "reddit:r/airdrops",
+      "publishedAt": "2024-04-06T15:55:36.000Z"
+    },
+    {
+      "title": "GetGrass Airdrop ",
+      "url": "https://www.reddit.com/r/airdrops/comments/1bxesxp/getgrass_airdrop/",
+      "source": "reddit:r/airdrops",
+      "publishedAt": "2024-04-06T15:51:46.000Z"
+    },
+    {
+      "title": "Best Free Crypto Airdrop ",
+      "url": "https://www.reddit.com/r/airdrops/comments/1bxdpua/best_free_crypto_airdrop/",
+      "source": "reddit:r/airdrops",
+      "publishedAt": "2024-04-06T15:04:38.000Z"
+    },
+    {
+      "title": "Confirmed Airdrop for TRIA Card Holders 📌 💳",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1qli72t/confirmed_airdrop_for_tria_card_holders/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2026-01-24T09:00:59.000Z"
+    },
+    {
+      "title": "PIN AI AIRDROP",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1q39o3f/pin_ai_airdrop/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2026-01-03T23:29:18.000Z"
+    },
+    {
+      "title": "MetaGold Free Airdrop — Claim Your Tokens Now!",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1puiyry/metagold_free_airdrop_claim_your_tokens_now/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-12-24T08:59:20.000Z"
+    },
+    {
+      "title": "MetaGold Free Airdrop — Claim Your Tokens Now!",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1puh19b/metagold_free_airdrop_claim_your_tokens_now/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-12-24T06:56:59.000Z"
+    },
+    {
+      "title": "Free MetaGold coin airdrop — no payment required",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1pu03wn/free_metagold_coin_airdrop_no_payment_required/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-12-23T17:42:50.000Z"
+    },
+    {
+      "title": "YOM AIRDROP",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1pmymx9/yom_airdrop/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-12-15T04:39:13.000Z"
+    },
+    {
+      "title": "Namso DEPIN MINING AIRDROP",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1pjwl24/namso_depin_mining_airdrop/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-12-11T12:43:23.000Z"
+    },
+    {
+      "title": "Free XRP Faucet via Telegram (Xmagnetic) – Similar to Airdrop",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1mwkbn8/free_xrp_faucet_via_telegram_xmagnetic_similar_to/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-08-21T19:14:28.000Z"
+    },
+    {
+      "title": "Promising AI Agentic web3 project heading for TGE",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1mv8q5l/promising_ai_agentic_web3_project_heading_for_tge/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-08-20T08:06:36.000Z"
+    },
+    {
+      "title": "KRAIN AI Airdrop – Legit Opportunity on Solana",
+      "url": "https://www.reddit.com/r/cryptoAirdrops/comments/1l5g2cx/krain_ai_airdrop_legit_opportunity_on_solana/",
+      "source": "reddit:r/CryptoAirdrops",
+      "publishedAt": "2025-06-07T08:35:35.000Z"
+    }
+  ],
+  "note": "Leads are unverified headlines from public sources. Verify a lead's contract with /audit before acting on it."
+}

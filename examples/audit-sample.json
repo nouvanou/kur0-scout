@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "agent": "kur0-scout",
+  "checkedAt": "2026-11-14T23:34:23.624Z",
+  "address": "0xcac2b707ccf3309ae944a0db036dfc75adcc9be7",
+  "chain": {
+    "id": 56,
+    "name": "BSC"
+  },
+  "facts": {
+    "isContract": true,
+    "bytecodeBytes": 13967,
+    "sourcifyMatch": "exact_match",
+    "name": "Starcore Miners",
+    "symbol": "STAR",
+    "totalSupplyRaw": null,
+    "owner": null,
+    "ownerRenounced": false
+  },
+  "signals": [
+    {
+      "level": "ok",
+      "text": "Source verified on Sourcify (exact_match match) — published code matches deployed bytecode."
+    },
+    {
+      "level": "ok",
+      "text": "No owner() exposed — no obvious admin entry point via the standard getter."
+    }
+  ],
+  "riskLevel": "LOW",
+  "riskNote": "Heuristic summary of the facts above — not a guarantee. Verified code can still belong to a bad project; always read the source.",
+  "verifyItYourself": {
+    "sourcify": "https://repo.sourcify.dev/contracts/full_match/56/0xcac2b707ccf3309ae944a0db036dfc75adcc9be7/",
+    "explorer": "https://bscscan.com/address/0xcac2b707ccf3309ae944a0db036dfc75adcc9be7",
+    "methods": [
+      "eth_getCode",
+      "eth_call name()/symbol()/totalSupply()/owner()",
+      "Sourcify v2 API"
+    ]
+  }
+}
